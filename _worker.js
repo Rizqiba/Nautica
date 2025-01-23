@@ -3,7 +3,7 @@ import { connect } from "cloudflare:sockets";
 // Variables
 const rootDomain = "itrnet-host3.my.id"; // Ganti dengan domain utama kalian
 const serviceName = "nautica"; // Ganti dengan nama workers kalian
-const apiKey = "xd9gu6Z3ojvYiAnBYTs1_SzrORYGysIN_Gb59z62"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
+const apiKey = "OuwaOGuJcA65mxf767y5wECaLAhtW3_pOa0_GsqL"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "rigajoztuitu@gmail.com"; // Ganti dengan email yang kalian gunakan
 const accountID = "6d7a2f507e6f16320f73739ac9498e6b"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 const zoneID = "ba510e64fb5f9efd031cc1797f9dda15"; // Ganti dengan Zone ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
